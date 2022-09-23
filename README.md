@@ -9,4 +9,4 @@ Funcionalidades
 5. Modificar Característica Dispositivos
 6. Modificar Funcionalidad Dispositivos
 
-Proyecto final de la materia de 'Programación Avanzada' Pontificia Universidad Javeriana (2021)
+Proyecto final de la materia de 'Pensamiento Algoritmico' Pontificia Universidad Javeriana (2020)
